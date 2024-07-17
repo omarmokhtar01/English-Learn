@@ -1,0 +1,111 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "Weather",
+          "definition": "The condition of the atmosphere at a specific place and time, including temperature, precipitation, and wind.",
+          "example": "The weather today is sunny and warm."
+        },
+        {
+          "term": "Temperature",
+          "definition": "The degree of hotness or coldness measured with a thermometer.",
+          "example": "The temperature dropped to freezing overnight."
+        },
+        {
+          "term": "Forecast",
+          "definition": "A prediction of future weather conditions.",
+          "example": "The weather forecast says it will rain tomorrow."
+        },
+        {
+          "term": "Sunny",
+          "definition": "When the sun is shining brightly.",
+          "example": "It's a beautiful day with clear skies and sunny weather."
+        },
+        {
+          "term": "Cloudy",
+          "definition": "When the sky is covered with clouds.",
+          "example": "The weather turned cloudy in the afternoon."
+        },
+        {
+          "term": "Rain",
+          "definition": "Water falling from the sky in drops.",
+          "example": "We need an umbrella because it's raining outside."
+        },
+        {
+          "term": "Snow",
+          "definition": "Soft, white flakes that fall from the sky when it's cold.",
+          "example": "The children built a snowman after the snowfall."
+        },
+        {
+          "term": "Windy",
+          "definition": "When there is a lot of wind blowing.",
+          "example": "Hold on to your hat, it's very windy today."
+        },
+        {
+          "term": "Storm",
+          "definition": "A violent disturbance of the atmosphere with strong winds, rain, thunder, lightning, or snow.",
+          "example": "They stayed indoors during the thunderstorm."
+        },
+        {
+          "term": "Foggy",
+          "definition": "When there is thick mist or low clouds close to the ground.",
+          "example": "Drive carefully, it's foggy out there."
+        },
+        {
+          "term": "Humid",
+          "definition": "When there is a lot of moisture in the air.",
+          "example": "The weather in tropical regions is often hot and humid."
+        },
+        {
+          "term": "Clear",
+          "definition": "When the sky is free from clouds.",
+          "example": "The sky was clear, and we could see the stars at night."
+        },
+        {
+          "term": "Thunder",
+          "definition": "The loud sound that follows a flash of lightning during a storm.",
+          "example": "Thunder rumbled in the distance."
+        },
+        {
+          "term": "Lightning",
+          "definition": "A sudden flash of light in the sky caused by electrical discharge during a thunderstorm.",
+          "example": "They watched the lightning illuminate the night sky."
+        },
+        {
+          "term": "Climate",
+          "definition": "The average weather conditions of a place over a long period.",
+          "example": "The climate in this region is warm and dry throughout the year."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Sarah woke up early and looked outside to check the weather. It was sunny with clear skies, so she decided to go for a hike in the nearby mountains. As she reached the trailhead, dark clouds started to gather, and the weather quickly turned cloudy. Soon, it began to rain heavily. Sarah had to hurry back home to avoid the storm. Later that evening, the rain turned into snow, covering the ground with a blanket of white. The next day, the weather cleared up, and the sun shone brightly again."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Under the weather",
+          "definition": "To feel unwell or sick.",
+          "example": "Sarah stayed home from work because she was feeling under the weather."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Fair and square",
+          "definition": "In a just and honest manner.",
+          "example": "The competition was won fair and square by the team."
+        }
+      ]
+    }
+  ]
+  

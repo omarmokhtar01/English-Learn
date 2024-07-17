@@ -1,0 +1,111 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "Menu",
+          "definition": "A list of food and drinks offered at a restaurant.",
+          "example": "The waiter handed us the menu."
+        },
+        {
+          "term": "Order",
+          "definition": "To request food or drinks in a restaurant.",
+          "example": "I would like to order a pizza, please."
+        },
+        {
+          "term": "Waiter/Waitress",
+          "definition": "A person who serves food and drinks to customers.",
+          "example": "The waitress took our order with a smile."
+        },
+        {
+          "term": "Bill",
+          "definition": "A statement of the money owed for goods or services.",
+          "example": "Can we have the bill, please?"
+        },
+        {
+          "term": "Tip",
+          "definition": "Extra money given to the waiter or waitress for their service.",
+          "example": "We left a 20% tip for the excellent service."
+        },
+        {
+          "term": "Reservation",
+          "definition": "An arrangement to have a table at a restaurant saved for you.",
+          "example": "We made a reservation for 7 PM."
+        },
+        {
+          "term": "Appetizer",
+          "definition": "A small dish served before the main meal.",
+          "example": "We ordered a salad as an appetizer."
+        },
+        {
+          "term": "Main course",
+          "definition": "The primary dish of a meal.",
+          "example": "The steak was the main course."
+        },
+        {
+          "term": "Dessert",
+          "definition": "A sweet course typically eaten at the end of a meal.",
+          "example": "For dessert, I had chocolate cake."
+        },
+        {
+          "term": "Beverage",
+          "definition": "A drink, especially one other than water.",
+          "example": "I ordered a soft drink as my beverage."
+        },
+        {
+          "term": "Fork",
+          "definition": "A utensil with several prongs used for eating.",
+          "example": "He used a fork to eat his salad."
+        },
+        {
+          "term": "Knife",
+          "definition": "A utensil with a sharp blade used for cutting food.",
+          "example": "She cut the meat with a knife."
+        },
+        {
+          "term": "Spoon",
+          "definition": "A utensil used for eating liquid or semi-liquid foods.",
+          "example": "He ate the soup with a spoon."
+        },
+        {
+          "term": "Napkin",
+          "definition": "A piece of cloth or paper used to wipe the mouth and hands while eating.",
+          "example": "She placed a napkin on her lap before eating."
+        },
+        {
+          "term": "Chef",
+          "definition": "A professional cook, especially the main cook in a restaurant.",
+          "example": "The chef prepared a special dish for us."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Emily and her friends decided to dine out at a new Italian restaurant in town. They made a reservation for 7 PM and arrived on time. The waiter greeted them and handed them the menu. Emily decided to order a salad as an appetizer, followed by pasta as her main course. Her friends chose pizza and steak. For beverages, they ordered soft drinks. They enjoyed their meal and decided to share a chocolate cake for dessert. The waiter brought the bill, and they left a generous tip for the excellent service. Before leaving, they complimented the chef for the delicious food."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "On the house",
+          "definition": "Free of charge.",
+          "example": "The dessert was on the house because it was our first visit."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Wine and dine",
+          "definition": "To entertain someone with a meal and drinks.",
+          "example": "They were wined and dined at the fancy restaurant by their clients."
+        }
+      ]
+    }
+  ]
+  

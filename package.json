@@ -1,14 +1,24 @@
 {
-  "name": "my-app",
-  "version": "0.1.0",
-  "private": true,
+  "name": "omar-react-structure",
+  "version": "0.0.1",
+  "private": false,
+  "description": "This template is specifically crafted by developer Omar Mukhtar to provide a clear and efficient setup for working with React in Vite. It includes hot module replacement (HMR) and some ESLint rules to ensure code quality. Use this template as a foundation for your next project and enjoy a streamlined development experience with high-quality output.",
+  "main": "src/index.js",
   "dependencies": {
+    "@reduxjs/toolkit": "^2.2.5",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.6.8",
+    "bootstrap": "^5.3.3",
     "react": "^18.3.1",
+    "react-bootstrap": "^2.10.4",
     "react-dom": "^18.3.1",
+    "react-redux": "^9.1.2",
+    "react-router": "^6.23.1",
+    "react-router-dom": "^6.23.1",
     "react-scripts": "5.0.1",
+    "react-transition-group": "^4.4.5",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -34,5 +44,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "keywords": [
+    "react",
+    "component",
+    "npm"
+  ],
+  "author": "Omar Mokhtar",
+  "license": "MIT"
 }

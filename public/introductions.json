@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Vocabulary",
+    "topics": [
+      {
+        "term": "Greeting",
+        "definition": "Saying hello or welcome to someone.",
+        "example": "She greeted everyone warmly when they arrived."
+      },
+      {
+        "term": "Name",
+        "definition": "The word used to identify a person.",
+        "example": "My name is John."
+      },
+      {
+        "term": "Age",
+        "definition": "How many years old someone is.",
+        "example": "He is 30 years old."
+      },
+      {
+        "term": "From",
+        "definition": "Indicates where someone is originally from.",
+        "example": "She is from France."
+      },
+      {
+        "term": "Hello",
+        "definition": "A common greeting or salutation.",
+        "example": "Hello, how are you?"
+      },
+      {
+        "term": "Hi",
+        "definition": "A casual greeting similar to hello.",
+        "example": "Hi there!"
+      },
+      {
+        "term": "How are you?",
+        "definition": "A common question asking about someone's well-being.",
+        "example": "How are you today?"
+      },
+      {
+        "term": "Fine",
+        "definition": "To be in good health or satisfactory condition.",
+        "example": "I'm fine, thank you."
+      },
+      {
+        "term": "Goodbye",
+        "definition": "A farewell remark or parting phrase.",
+        "example": "It's time to say goodbye."
+      },
+      {
+        "term": "Nice to meet you",
+        "definition": "A polite expression used when meeting someone for the first time.",
+        "example": "Nice to meet you, I'm Sarah."
+      },
+      {
+        "term": "My name is...",
+        "definition": "An introduction phrase used to state one's name.",
+        "example": "My name is Emily."
+      },
+      {
+        "term": "Where are you from?",
+        "definition": "A question asking about someone's place of origin.",
+        "example": "Where are you from originally?"
+      },
+      {
+        "term": "What's your name?",
+        "definition": "A question asking for someone's name.",
+        "example": "What's your name, please?"
+      },
+      {
+        "term": "I'm...",
+        "definition": "A short response to introduce oneself.",
+        "example": "I'm David."
+      },
+      {
+        "term": "Pleased to meet you",
+        "definition": "An expression of politeness when meeting someone.",
+        "example": "Pleased to meet you, Mr. Johnson."
+      }
+    ]
+  },
+  {
+    "title": "Story",
+    "topics": [
+      {
+        "text": "Sarah moved to a new neighborhood and decided to introduce herself to her neighbors. She walked up to the first door and knocked. A friendly woman opened the door and greeted her with a smile. 'Hello,' Sarah said, 'my name is Sarah. I'm new to the area.' The woman replied warmly, 'Hi Sarah, nice to meet you! I'm Emily. How are you today?' Sarah replied, 'I'm fine, thank you. It's nice to meet you too, Emily.'"
+      }
+    ]
+  },
+  {
+    "title": "Idiom",
+    "topics": [
+      {
+        "term": "Break the ice",
+        "definition": "To do something to relieve tension or get a conversation started in a social situation.",
+        "example": "At the neighborhood party, Sarah told a funny story to break the ice and make everyone feel comfortable."
+      }
+    ]
+  },
+  {
+    "title": "Binomial",
+    "topics": [
+      {
+        "term": "Salt and pepper",
+        "definition": "Refers to two things that are commonly used together or complement each other.",
+        "example": "Just like salt and pepper, Sarah and Emily became good friends quickly after their first meeting."
+      }
+    ]
+  }
+]

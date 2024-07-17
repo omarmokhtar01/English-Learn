@@ -1,0 +1,111 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "Home",
+          "definition": "The place where one lives permanently, especially as a member of a family or household.",
+          "example": "She loves spending time at home with her family."
+        },
+        {
+          "term": "House",
+          "definition": "A building for human habitation, typically one that is detached and surrounded by land.",
+          "example": "Their house has a large garden in the back."
+        },
+        {
+          "term": "Apartment",
+          "definition": "A set of rooms forming an individual residence, typically on one floor and within a larger building.",
+          "example": "He lives in a small apartment in the city."
+        },
+        {
+          "term": "Room",
+          "definition": "A space within a building that is enclosed by walls and floor and ceiling.",
+          "example": "Her bedroom is painted in her favorite color."
+        },
+        {
+          "term": "Kitchen",
+          "definition": "A room or area where food is prepared and cooked.",
+          "example": "They renovated their kitchen with new appliances."
+        },
+        {
+          "term": "Living room",
+          "definition": "A room in a house for general and informal everyday use.",
+          "example": "Their living room has a comfortable sofa and a big TV."
+        },
+        {
+          "term": "Bedroom",
+          "definition": "A room for sleeping in.",
+          "example": "His bedroom is decorated with posters of his favorite bands."
+        },
+        {
+          "term": "Bathroom",
+          "definition": "A room containing a bath or shower and typically also a washbasin and a toilet.",
+          "example": "The bathroom has a new bathtub installed."
+        },
+        {
+          "term": "Furniture",
+          "definition": "Large movable equipment, such as tables and chairs, used to make a house, office, or other space suitable for living or working.",
+          "example": "They bought new furniture for the living room."
+        },
+        {
+          "term": "Decor",
+          "definition": "The style of decoration of a room or building.",
+          "example": "She likes minimalist decor with neutral colors."
+        },
+        {
+          "term": "Garden",
+          "definition": "A piece of ground adjoining a house, typically used for growing flowers, fruit, or vegetables.",
+          "example": "They spent weekends working in the garden."
+        },
+        {
+          "term": "Neighborhood",
+          "definition": "The area or region around or near some place or thing; vicinity.",
+          "example": "Their neighborhood is quiet and friendly."
+        },
+        {
+          "term": "Roof",
+          "definition": "The structure forming the upper covering of a building or vehicle.",
+          "example": "They repaired the roof after the storm."
+        },
+        {
+          "term": "Window",
+          "definition": "An opening in the wall or roof of a building or vehicle that is fitted with glass or other transparent material in a frame to admit light or air and allow people to see out.",
+          "example": "She opened the window to let in some fresh air."
+        },
+        {
+          "term": "Door",
+          "definition": "A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle, or in the framework of a cupboard.",
+          "example": "He closed the door behind him as he entered the room."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Daniel enjoys his cozy home in the suburbs. Their house has a spacious living room where the family gathers in the evenings. The kitchen is his favorite place, where he experiments with new recipes. His bedroom is decorated with posters of his favorite sports team. The garden outside is filled with colorful flowers and a vegetable patch. Daniel loves spending time there on weekends. Their neighborhood is quiet, with friendly neighbors who often gather for block parties. Daniel's home is not just a place to live but a haven where he feels relaxed and happy."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Home sweet home",
+          "definition": "Used to express the pleasure of being in one's own house or home after an absence.",
+          "example": "After a long trip, it's always good to be back home sweet home."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Safe and sound",
+          "definition": "Unharmed and in good condition.",
+          "example": "They arrived home safe and sound after the storm."
+        }
+      ]
+    }
+  ]
+  

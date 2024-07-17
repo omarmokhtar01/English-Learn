@@ -1,0 +1,111 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "Mall",
+          "definition": "A large building with many shops and stores.",
+          "example": "We went to the mall to buy clothes."
+        },
+        {
+          "term": "Store",
+          "definition": "A place where goods are sold.",
+          "example": "She bought groceries at the local store."
+        },
+        {
+          "term": "Cart",
+          "definition": "A vehicle with wheels used for carrying things in a store.",
+          "example": "He pushed the cart down the aisles."
+        },
+        {
+          "term": "Cashier",
+          "definition": "The person who handles payments at a store.",
+          "example": "The cashier gave me my change."
+        },
+        {
+          "term": "Receipt",
+          "definition": "A piece of paper that shows what you bought and how much you paid.",
+          "example": "Don’t forget to take your receipt."
+        },
+        {
+          "term": "Discount",
+          "definition": "A reduction in the usual price.",
+          "example": "There was a 20% discount on shoes."
+        },
+        {
+          "term": "Price",
+          "definition": "The amount of money something costs.",
+          "example": "What is the price of this shirt?"
+        },
+        {
+          "term": "Sale",
+          "definition": "A time when goods are sold at lower prices.",
+          "example": "The store is having a big sale this weekend."
+        },
+        {
+          "term": "Bargain",
+          "definition": "Something bought for less than the usual price.",
+          "example": "I found a great bargain on a new jacket."
+        },
+        {
+          "term": "Customer",
+          "definition": "A person who buys goods or services.",
+          "example": "The customer asked for a different size."
+        },
+        {
+          "term": "Shelf",
+          "definition": "A flat surface in a store where items are displayed.",
+          "example": "The cookies are on the top shelf."
+        },
+        {
+          "term": "Fitting room",
+          "definition": "A room in a store where you can try on clothes.",
+          "example": "She tried the dress on in the fitting room."
+        },
+        {
+          "term": "Return",
+          "definition": "To take something back to the store.",
+          "example": "I need to return this shirt; it’s too small."
+        },
+        {
+          "term": "Credit card",
+          "definition": "A card used to buy goods and services on credit.",
+          "example": "She paid with her credit card."
+        },
+        {
+          "term": "Checkout",
+          "definition": "The place where you pay for your items in a store.",
+          "example": "There was a long line at the checkout."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Jane decided to go shopping at the local mall. She needed some new clothes for the upcoming season. First, she visited a clothing store and picked out a few dresses. She took them to the fitting room to try them on. After deciding on her favorite, she went to the cashier to pay. The store was having a big sale, so she got a 20% discount. Jane also found a great bargain on a pair of shoes. She put her items in a cart and headed to the checkout. The cashier gave her a receipt, and she left the store happy with her purchases."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Shop till you drop",
+          "definition": "To shop until one is exhausted.",
+          "example": "Jane and her friends decided to shop till they drop at the mall."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Bits and pieces",
+          "definition": "Various small items.",
+          "example": "She bought some bits and pieces for her new apartment."
+        }
+      ]
+    }
+  ]
+  

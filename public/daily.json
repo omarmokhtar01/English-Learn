@@ -1,0 +1,111 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "Wake up",
+          "definition": "To stop sleeping and get out of bed.",
+          "example": "I wake up at 6 AM every morning."
+        },
+        {
+          "term": "Brush teeth",
+          "definition": "To clean teeth using a toothbrush and toothpaste.",
+          "example": "After breakfast, I brush my teeth."
+        },
+        {
+          "term": "Take a shower",
+          "definition": "To wash the body using water and soap.",
+          "example": "I take a shower before going to work."
+        },
+        {
+          "term": "Eat breakfast",
+          "definition": "The first meal of the day, usually eaten in the morning.",
+          "example": "I eat breakfast with my family every day."
+        },
+        {
+          "term": "Go to work",
+          "definition": "To travel to one's workplace.",
+          "example": "I go to work by bus."
+        },
+        {
+          "term": "Lunch break",
+          "definition": "A period of time when people stop work to eat lunch.",
+          "example": "I take my lunch break at 12 PM."
+        },
+        {
+          "term": "Return home",
+          "definition": "To come back to one's house or apartment.",
+          "example": "I return home from work at 6 PM."
+        },
+        {
+          "term": "Exercise",
+          "definition": "Physical activity done to stay healthy or fit.",
+          "example": "I exercise at the gym three times a week."
+        },
+        {
+          "term": "Watch TV",
+          "definition": "To view television programs.",
+          "example": "I watch TV before going to bed."
+        },
+        {
+          "term": "Dinner",
+          "definition": "The main meal of the day, usually eaten in the evening.",
+          "example": "We have dinner together as a family."
+        },
+        {
+          "term": "Read",
+          "definition": "To look at and understand the meaning of written or printed matter.",
+          "example": "I like to read novels before sleeping."
+        },
+        {
+          "term": "Relax",
+          "definition": "To rest or do something enjoyable after work or effort.",
+          "example": "I relax by listening to music."
+        },
+        {
+          "term": "Sleep",
+          "definition": "The natural state of rest in which the eyes are closed, the muscles are relaxed, and the mind is unconscious.",
+          "example": "I sleep for eight hours every night."
+        },
+        {
+          "term": "Weekends",
+          "definition": "The days of the week that are not weekdays (Saturday and Sunday in many cultures).",
+          "example": "I go hiking on weekends."
+        },
+        {
+          "term": "Alarm clock",
+          "definition": "A clock that can be set to sound an alarm at a desired time.",
+          "example": "I use an alarm clock to wake up early."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "John's daily routine starts early in the morning. He wakes up at 6 AM and brushes his teeth. After that, he takes a quick shower and eats breakfast with his family. Then, he goes to work by bus. During his lunch break, he eats a sandwich and drinks coffee. In the evening, he returns home at 6 PM, exercises at the gym, and has dinner with his family. After dinner, he relaxes by watching TV or reading a book. Finally, he sets his alarm clock and goes to sleep at 10 PM to prepare for the next day."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Early bird",
+          "definition": "A person who wakes up and starts their day early.",
+          "example": "John is an early bird; he wakes up at 6 AM every day."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Rise and shine",
+          "definition": "A phrase used to tell someone to wake up and get out of bed.",
+          "example": "Every morning, John's mom would say, 'Rise and shine!' to wake him up."
+        }
+      ]
+    }
+  ]
+  

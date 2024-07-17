@@ -1,0 +1,111 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "Parents",
+          "definition": "Father and mother of a person.",
+          "example": "My parents live in New York."
+        },
+        {
+          "term": "Siblings",
+          "definition": "Brothers and sisters.",
+          "example": "I have two siblings, a brother and a sister."
+        },
+        {
+          "term": "Grandparents",
+          "definition": "Parents of one's father or mother.",
+          "example": "My grandparents visit us every summer."
+        },
+        {
+          "term": "Uncle",
+          "definition": "The brother of one's father or mother.",
+          "example": "My uncle is very funny and tells great stories."
+        },
+        {
+          "term": "Aunt",
+          "definition": "The sister of one's father or mother.",
+          "example": "My aunt loves to cook delicious meals."
+        },
+        {
+          "term": "Cousin",
+          "definition": "A child of one's uncle or aunt.",
+          "example": "I have three cousins who live nearby."
+        },
+        {
+          "term": "Nephew",
+          "definition": "A son of one's brother or sister.",
+          "example": "My nephew is very cute and playful."
+        },
+        {
+          "term": "Niece",
+          "definition": "A daughter of one's brother or sister.",
+          "example": "My niece is learning to walk."
+        },
+        {
+          "term": "Husband",
+          "definition": "A married man considered in relation to his spouse.",
+          "example": "Her husband is a doctor."
+        },
+        {
+          "term": "Wife",
+          "definition": "A married woman considered in relation to her spouse.",
+          "example": "His wife works as a teacher."
+        },
+        {
+          "term": "Son",
+          "definition": "A male child in relation to his parents.",
+          "example": "Their son is in high school."
+        },
+        {
+          "term": "Daughter",
+          "definition": "A female child in relation to her parents.",
+          "example": "Their daughter loves painting."
+        },
+        {
+          "term": "Sibling-in-law",
+          "definition": "The sibling of one's spouse, or the spouse of one's sibling.",
+          "example": "My brother's wife is my sister-in-law."
+        },
+        {
+          "term": "Family gathering",
+          "definition": "A meeting of family members for a special occasion.",
+          "example": "We have a family gathering every Christmas."
+        },
+        {
+          "term": "Household",
+          "definition": "The people living together in a house or apartment.",
+          "example": "Our household includes my parents, my sister, and me."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Emily has a big family. She lives with her parents and two siblings, a brother named James and a sister named Anna. Her grandparents visit them every summer, and they all enjoy spending time together. Emily's uncle, who is very funny, and her aunt, who cooks delicious meals, live nearby. She also has three cousins, who often come over to play. Emily's brother, James, has a son, making Emily an aunt to a cute and playful nephew. They all gather for a family gathering every Christmas, enjoying each other's company and celebrating together."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Apple of one's eye",
+          "definition": "A person who is cherished above others.",
+          "example": "Emily is the apple of her grandmother's eye."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Safe and sound",
+          "definition": "To be unharmed and in good condition.",
+          "example": "After the long trip, the whole family arrived home safe and sound."
+        }
+      ]
+    }
+  ]
+  

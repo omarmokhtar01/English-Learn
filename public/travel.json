@@ -1,0 +1,111 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "Travel",
+          "definition": "The act of going from one place to another, especially over a long distance.",
+          "example": "I love to travel and explore new countries."
+        },
+        {
+          "term": "Destination",
+          "definition": "The place to which someone is going or something is sent.",
+          "example": "Our destination was a beautiful beach resort."
+        },
+        {
+          "term": "Trip",
+          "definition": "A journey or excursion, especially for pleasure.",
+          "example": "We took a road trip across Europe last summer."
+        },
+        {
+          "term": "Vacation",
+          "definition": "A period of time devoted to pleasure, rest, or relaxation.",
+          "example": "They went on a vacation to the mountains."
+        },
+        {
+          "term": "Tourist",
+          "definition": "A person who travels for pleasure, often visiting famous places.",
+          "example": "The city attracts many tourists every year."
+        },
+        {
+          "term": "Passport",
+          "definition": "A document issued by a country to a citizen, permitting travel and identifying the holder.",
+          "example": "Make sure to bring your passport when traveling abroad."
+        },
+        {
+          "term": "Ticket",
+          "definition": "A piece of paper that gives someone the right to enter a place or travel on a vehicle.",
+          "example": "She bought a plane ticket to Paris."
+        },
+        {
+          "term": "Airport",
+          "definition": "A place where airplanes take off and land, with facilities for passengers.",
+          "example": "We arrived at the airport two hours before our flight."
+        },
+        {
+          "term": "Hotel",
+          "definition": "A place where people pay to stay when they are away from home.",
+          "example": "They booked a room at a luxurious hotel."
+        },
+        {
+          "term": "Rental car",
+          "definition": "A car that you can rent for a short period of time.",
+          "example": "They picked up a rental car at the airport."
+        },
+        {
+          "term": "Train",
+          "definition": "A form of transportation that runs on tracks.",
+          "example": "They took the train to the next city."
+        },
+        {
+          "term": "Bus",
+          "definition": "A large vehicle used for transporting passengers by road.",
+          "example": "She takes the bus to work every morning."
+        },
+        {
+          "term": "Taxi",
+          "definition": "A car with a driver that you pay to take you somewhere.",
+          "example": "They hailed a taxi to take them to the museum."
+        },
+        {
+          "term": "Cruise",
+          "definition": "A vacation spent traveling on a ship or boat.",
+          "example": "They went on a Caribbean cruise last winter."
+        },
+        {
+          "term": "Luggage",
+          "definition": "Suitcases or other bags in which to pack personal belongings for traveling.",
+          "example": "She packed her luggage for the weekend trip."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Mark and his family decided to go on a vacation to Europe. They booked their flights and arrived at the airport early to check in their luggage. After boarding the plane, they flew to their destination, a historic city known for its beautiful architecture. During their trip, they visited famous landmarks and enjoyed local cuisine. They traveled around the city by taxi and rented a car to explore nearby attractions. At the end of their vacation, they returned home with wonderful memories of their travels."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Hit the road",
+          "definition": "To begin a journey, especially by driving.",
+          "example": "They packed their bags and hit the road early in the morning."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Travel light",
+          "definition": "To pack lightly and not bring too many things.",
+          "example": "She prefers to travel light with just a backpack."
+        }
+      ]
+    }
+  ]
+  

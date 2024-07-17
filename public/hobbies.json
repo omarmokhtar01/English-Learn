@@ -1,0 +1,111 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "Hobby",
+          "definition": "An activity done for enjoyment in one's free time.",
+          "example": "Reading is my favorite hobby."
+        },
+        {
+          "term": "Interest",
+          "definition": "A subject or activity that one finds appealing or enjoys learning about.",
+          "example": "She has a strong interest in photography."
+        },
+        {
+          "term": "Sports",
+          "definition": "Physical activities involving skill and physical exertion.",
+          "example": "He plays several sports, including soccer and basketball."
+        },
+        {
+          "term": "Music",
+          "definition": "Vocal or instrumental sounds combined to produce harmony and expression of emotion.",
+          "example": "She loves listening to classical music."
+        },
+        {
+          "term": "Painting",
+          "definition": "The art of applying pigment to a surface to create an image.",
+          "example": "His hobby is painting landscapes."
+        },
+        {
+          "term": "Gardening",
+          "definition": "The practice of growing and cultivating plants.",
+          "example": "She spends her weekends gardening."
+        },
+        {
+          "term": "Cooking",
+          "definition": "The practice or skill of preparing food.",
+          "example": "He enjoys cooking Italian dishes."
+        },
+        {
+          "term": "Traveling",
+          "definition": "The activity of going from one place to another, typically over a distance.",
+          "example": "They love traveling to new countries."
+        },
+        {
+          "term": "Photography",
+          "definition": "The art or practice of taking and processing photographs.",
+          "example": "Her interest in photography started when she was young."
+        },
+        {
+          "term": "Reading",
+          "definition": "The action or skill of reading written or printed matter silently or aloud.",
+          "example": "Reading novels is his favorite pastime."
+        },
+        {
+          "term": "Drawing",
+          "definition": "The act of making pictures or diagrams with a pen, pencil, or similar tool.",
+          "example": "She spends hours drawing in her sketchbook."
+        },
+        {
+          "term": "Dancing",
+          "definition": "Moving rhythmically to music, typically following a set sequence of steps.",
+          "example": "He goes dancing every Friday night."
+        },
+        {
+          "term": "Writing",
+          "definition": "The activity of composing text for various purposes.",
+          "example": "She has a passion for writing short stories."
+        },
+        {
+          "term": "Hiking",
+          "definition": "Walking long distances in the countryside for pleasure or exercise.",
+          "example": "They often go hiking in the mountains on weekends."
+        },
+        {
+          "term": "Playing instruments",
+          "definition": "The activity of playing musical instruments.",
+          "example": "He enjoys playing the guitar and piano."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Jack has many hobbies and interests that keep him busy. On weekdays, he spends his evenings reading novels and drawing in his sketchbook. He loves photography and often takes pictures of nature during his hiking trips. Jack also enjoys playing musical instruments; his favorite is the guitar. On weekends, he spends time gardening and cooking delicious meals for his family. His interest in traveling takes him to new places every summer, where he captures beautiful moments with his camera. One of his greatest joys is dancing, which he does every Friday night with his friends. These hobbies make Jack's life colorful and full of joy."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Hit the books",
+          "definition": "To study very hard.",
+          "example": "Before exams, Jack needs to hit the books to get good grades."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Short and sweet",
+          "definition": "Brief but pleasant or to the point.",
+          "example": "His speech was short and sweet, leaving everyone in good spirits."
+        }
+      ]
+    }
+  ]
+  

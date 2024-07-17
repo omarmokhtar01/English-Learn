@@ -1,0 +1,111 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "Health",
+          "definition": "The state of being free from illness or injury.",
+          "example": "Regular exercise contributes to good health."
+        },
+        {
+          "term": "Well-being",
+          "definition": "The state of being comfortable, healthy, or happy.",
+          "example": "Yoga helps improve mental well-being."
+        },
+        {
+          "term": "Exercise",
+          "definition": "Physical activity that keeps the body fit and healthy.",
+          "example": "She goes jogging every morning for exercise."
+        },
+        {
+          "term": "Nutrition",
+          "definition": "The process of providing or obtaining the food necessary for health and growth.",
+          "example": "A balanced diet is essential for good nutrition."
+        },
+        {
+          "term": "Diet",
+          "definition": "The kinds of food that a person, animal, or community habitually eats.",
+          "example": "He follows a vegetarian diet."
+        },
+        {
+          "term": "Sleep",
+          "definition": "A natural state of rest for the body and mind, during which consciousness is partly or wholly suspended.",
+          "example": "She needs at least eight hours of sleep each night."
+        },
+        {
+          "term": "Stress",
+          "definition": "A state of mental or emotional strain resulting from demanding circumstances.",
+          "example": "Meditation can help reduce stress."
+        },
+        {
+          "term": "Mental health",
+          "definition": "A person’s condition with regard to their psychological and emotional well-being.",
+          "example": "It's important to prioritize mental health."
+        },
+        {
+          "term": "Physical health",
+          "definition": "The condition of a person's body and how well it functions.",
+          "example": "Regular check-ups are important for maintaining physical health."
+        },
+        {
+          "term": "Hygiene",
+          "definition": "Conditions or practices conducive to maintaining health and preventing disease, especially through cleanliness.",
+          "example": "Personal hygiene includes brushing teeth and washing hands."
+        },
+        {
+          "term": "Wellness",
+          "definition": "The state of being in good health, especially as an actively pursued goal.",
+          "example": "She attends wellness retreats to improve her overall well-being."
+        },
+        {
+          "term": "Medicine",
+          "definition": "The science or practice of the diagnosis, treatment, and prevention of disease.",
+          "example": "He takes medicine to control his blood pressure."
+        },
+        {
+          "term": "Doctor",
+          "definition": "A qualified practitioner of medicine; a physician.",
+          "example": "She visited the doctor for a check-up."
+        },
+        {
+          "term": "Hospital",
+          "definition": "An institution providing medical and surgical treatment and nursing care for sick or injured people.",
+          "example": "He was admitted to the hospital for surgery."
+        },
+        {
+          "term": "Therapy",
+          "definition": "Treatment intended to relieve or heal a disorder.",
+          "example": "She undergoes therapy to manage her anxiety."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Alexandra focused on improving her health and well-being. She started by adjusting her diet to include more fruits and vegetables, aiming for better nutrition. Every morning, she went for a jog in the park to get regular exercise. Yoga sessions in the evening helped reduce her stress levels and improve her mental well-being. Alexandra also ensured she got enough sleep each night, knowing it was crucial for her overall health. With these habits, she felt more energetic and happier."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Fit as a fiddle",
+          "definition": "In excellent health, physically fit.",
+          "example": "After months of training, he's now fit as a fiddle."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Sound mind and body",
+          "definition": "In good mental and physical health.",
+          "example": "Regular exercise and meditation help maintain a sound mind and body."
+        }
+      ]
+    }
+  ]
+  
