@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "country",
+          "definition": "A nation with its own government, occupying a particular territory.",
+          "example": "China is the most populous country in the world."
+        },
+        {
+          "term": "nationality",
+          "definition": "The status of belonging to a particular nation.",
+          "example": "She has dual nationality, American and Canadian."
+        },
+        {
+          "term": "capital",
+          "definition": "The city or town that functions as the seat of government and administrative center of a country or region.",
+          "example": "The capital of France is Paris."
+        },
+        {
+          "term": "language",
+          "definition": "The method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.",
+          "example": "Spanish is the official language of Spain."
+        },
+        {
+          "term": "continent",
+          "definition": "Any of the world's main continuous expanses of land (Africa, Antarctica, Asia, Australia, Europe, North America, and South America).",
+          "example": "Australia is the smallest continent by land area."
+        },
+        {
+          "term": "population",
+          "definition": "All the inhabitants of a particular town, area, or country.",
+          "example": "The population of India exceeds one billion."
+        },
+        {
+          "term": "culture",
+          "definition": "The arts and other manifestations of human intellectual achievement regarded collectively.",
+          "example": "Japan has a rich cultural heritage."
+        },
+        {
+          "term": "currency",
+          "definition": "A system of money in general use in a particular country.",
+          "example": "The currency of the United States is the dollar."
+        },
+        {
+          "term": "flag",
+          "definition": "A piece of cloth or similar material, typically oblong or square, attachable by one edge to a pole or rope and used as the symbol or emblem of a country or institution.",
+          "example": "The Canadian flag features a maple leaf."
+        },
+        {
+          "term": "government",
+          "definition": "The governing body of a nation, state, or community.",
+          "example": "The government of Germany is a federal parliamentary republic."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Mark and Anna love to travel and have visited many countries around the world. Their favorite destination so far has been Japan, where they immersed themselves in the local culture and tried traditional Japanese cuisine. They also explored historic temples and vibrant cities. Mark enjoys learning about each country's history and culture, while Anna is fascinated by the diversity of languages and customs they encounter."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Land of the free",
+          "definition": "A country where people can live without government interference.",
+          "example": "The United States is often referred to as the land of the free."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Rich and diverse",
+          "definition": "Having a wide variety of different things.",
+          "example": "India is known for its rich and diverse culture."
+        }
+      ]
+    }
+  ]
+  

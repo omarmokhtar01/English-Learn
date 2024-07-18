@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "history",
+          "definition": "The study of past events, particularly in human affairs.",
+          "example": "She enjoys reading about ancient history."
+        },
+        {
+          "term": "culture",
+          "definition": "The arts and other manifestations of human intellectual achievement regarded collectively.",
+          "example": "Japan has a rich cultural heritage."
+        },
+        {
+          "term": "tradition",
+          "definition": "The transmission of customs or beliefs from generation to generation, or the fact of being passed on in this way.",
+          "example": "Celebrating Thanksgiving is a tradition in many American families."
+        },
+        {
+          "term": "custom",
+          "definition": "A traditional and widely accepted way of behaving or doing something that is specific to a particular society, place, or time.",
+          "example": "Wearing traditional clothing is a custom during festivals."
+        },
+        {
+          "term": "heritage",
+          "definition": "Valued objects and qualities such as cultural traditions, unspoiled countryside, and historic buildings that have been passed down from previous generations.",
+          "example": "Preserving our cultural heritage is important for future generations."
+        },
+        {
+          "term": "historical site",
+          "definition": "A place of significant historical interest.",
+          "example": "The Pyramids of Giza are ancient historical sites in Egypt."
+        },
+        {
+          "term": "artifact",
+          "definition": "An object made by a human being, typically an item of cultural or historical interest.",
+          "example": "The museum displays artifacts from ancient civilizations."
+        },
+        {
+          "term": "monument",
+          "definition": "A statue, building, or other structure erected to commemorate a notable person or event.",
+          "example": "The Statue of Liberty is a famous monument in New York City."
+        },
+        {
+          "term": "festival",
+          "definition": "A day or period of celebration, typically for religious reasons.",
+          "example": "The Diwali festival is widely celebrated in India."
+        },
+        {
+          "term": "civilization",
+          "definition": "The stage of human social and cultural development and organization that is considered most advanced.",
+          "example": "Ancient Egyptian civilization left behind impressive architectural achievements."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "David has always been fascinated by history and culture. He enjoys visiting historical sites and learning about different traditions. Last summer, he traveled to Rome and explored ancient Roman ruins such as the Colosseum and the Roman Forum. David also attended local festivals where he experienced traditional music and dance. His passion for history and culture enriches his understanding of the world."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Ancient history",
+          "definition": "Something that is no longer important or relevant.",
+          "example": "His mistakes are ancient history now."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Rich cultural",
+          "definition": "Having a diverse and valuable cultural heritage.",
+          "example": "India is known for its rich cultural traditions."
+        }
+      ]
+    }
+  ]
+  

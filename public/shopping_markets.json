@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "shopping",
+          "definition": "Activity of purchasing goods from stores.",
+          "example": "She enjoys shopping for clothes."
+        },
+        {
+          "term": "market",
+          "definition": "Place where goods are bought and sold, usually outdoors.",
+          "example": "They visit the farmers' market every weekend."
+        },
+        {
+          "term": "store",
+          "definition": "Retail establishment selling items to the public.",
+          "example": "He works at a grocery store."
+        },
+        {
+          "term": "mall",
+          "definition": "Large building or series of connected buildings containing retail stores.",
+          "example": "They went shopping at the mall."
+        },
+        {
+          "term": "shopkeeper",
+          "definition": "Owner or manager of a store.",
+          "example": "The shopkeeper greeted them warmly."
+        },
+        {
+          "term": "customer",
+          "definition": "Person who buys goods or services from a store or business.",
+          "example": "She thanked the customer for their purchase."
+        },
+        {
+          "term": "purchase",
+          "definition": "Act of buying something.",
+          "example": "He made a purchase at the electronics store."
+        },
+        {
+          "term": "checkout",
+          "definition": "Place in a store where customers pay for their purchases.",
+          "example": "They waited in line at the checkout."
+        },
+        {
+          "term": "discount",
+          "definition": "Reduction in price of an item.",
+          "example": "The store offered a 50% discount on selected items."
+        },
+        {
+          "term": "bargain",
+          "definition": "Item bought for less than its usual price.",
+          "example": "She found a great bargain on shoes."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Sarah and Emily went shopping at the local market. They visited different stalls selling fresh produce, handmade crafts, and clothing. Sarah found a beautiful scarf at a bargain price. Emily bought fresh vegetables for dinner and chatted with the friendly shopkeepers. They enjoyed their time at the market and planned to return next weekend."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Shop till you drop",
+          "definition": "To shop continuously until you are exhausted.",
+          "example": "They went shopping in the city and shopped till they dropped."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Buy and sell",
+          "definition": "To engage in commerce by purchasing and then reselling goods.",
+          "example": "They buy and sell antiques as a hobby."
+        }
+      ]
+    }
+  ]
+  

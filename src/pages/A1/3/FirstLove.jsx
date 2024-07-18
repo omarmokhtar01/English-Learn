@@ -1,27 +1,27 @@
 import React, { useState, useEffect } from 'react';
 import { Card, Container, ListGroup } from 'react-bootstrap';
 
-function IntroductionsPage() {
-  const [introductionsData, setIntroductionsData] = useState([]);
+function FirstLovePage() {
+  const [FirstLoveData, setFirstLoveData] = useState([]);
 
   useEffect(() => {
-    const fetchIntroductionsData = async () => {
+    const fetchFirstLoveData = async () => {
       try {
-        const response = await fetch('/introductions.json'); // Adjust the path if necessary
+        const response = await fetch('/firstlove.json'); // Adjust the path if necessary
         const data = await response.json();
-        setIntroductionsData(data);
+        setFirstLoveData(data);
       } catch (error) {
-        console.error('Error fetching introductions data:', error);
+        console.error('Error fetching FirstLove data:', error);
       }
     };
 
-    fetchIntroductionsData();
+    fetchFirstLoveData();
   }, []);
 
   return (
     <Container className="mt-5">
-      <h1>Introductions</h1>
-      {introductionsData.map((topic, index) => (
+      <h1>FirstLove</h1>
+      {FirstLoveData.map((topic, index) => (
         <Card key={index} className="my-3">
           <Card.Header>{topic.title}</Card.Header>
           <Card.Body>
@@ -48,4 +48,4 @@ function IntroductionsPage() {
   );
 }
 
-export default IntroductionsPage;
+export default FirstLovePage;

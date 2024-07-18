@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "public transportation",
+          "definition": "System of vehicles such as buses and trains that operate at regular times on fixed routes and are used by the public.",
+          "example": "She takes public transportation to work every day."
+        },
+        {
+          "term": "bus",
+          "definition": "Large motor vehicle carrying passengers by road, typically one serving the public on a regular route and for a fare.",
+          "example": "He catches the bus to school every morning."
+        },
+        {
+          "term": "train",
+          "definition": "Connected series of railroad cars moved by a locomotive or by integral motors.",
+          "example": "She commutes to the city by train."
+        },
+        {
+          "term": "subway",
+          "definition": "Underground railway system in a city, typically having trains powered by electricity from a third rail.",
+          "example": "He takes the subway to get to downtown quickly."
+        },
+        {
+          "term": "tram",
+          "definition": "Streetcar; a vehicle that runs on tracks laid in the streets.",
+          "example": "They traveled around the city on a tram."
+        },
+        {
+          "term": "ticket",
+          "definition": "Piece of paper or small card that gives the holder a right to admission to something.",
+          "example": "She bought a ticket for the train."
+        },
+        {
+          "term": "platform",
+          "definition": "Flat raised area beside a railway track where passengers get on and off trains.",
+          "example": "They waited on the platform for the next train."
+        },
+        {
+          "term": "schedule",
+          "definition": "List of planned events or activities showing the times when they are due to take place.",
+          "example": "The bus schedule changed due to construction."
+        },
+        {
+          "term": "fare",
+          "definition": "Money paid for transportation, especially on public transport.",
+          "example": "She paid the bus fare with exact change."
+        },
+        {
+          "term": "passenger",
+          "definition": "Person who is traveling in a vehicle but is not operating it, such as in a bus, taxi, train, or airplane.",
+          "example": "The subway was crowded with passengers during rush hour."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Mark prefers using public transportation for his daily commute. He takes the bus to work in the morning, enjoying the view of the city along the way. After work, he catches the subway to meet friends downtown. Mark always checks the schedule to make sure he arrives on time. Using public transportation saves him from traffic stress and parking fees."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Get on board",
+          "definition": "To become involved in something or to participate.",
+          "example": "She encouraged everyone to get on board with the new public transportation initiatives."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "On the move",
+          "definition": "Traveling or being active and busy.",
+          "example": "The city is always on the move."
+        }
+      ]
+    }
+  ]
+  

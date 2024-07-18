@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "clothing",
+          "definition": "Items worn to cover the body.",
+          "example": "She bought new clothing for the winter season."
+        },
+        {
+          "term": "fashion",
+          "definition": "Popular style or trend in clothing and accessories.",
+          "example": "She follows the latest fashion trends."
+        },
+        {
+          "term": "dress",
+          "definition": "Garment consisting of a skirt and bodice worn by women.",
+          "example": "She wore a beautiful dress to the party."
+        },
+        {
+          "term": "shirt",
+          "definition": "Garment for the upper body, typically with sleeves and a collar.",
+          "example": "He put on a clean shirt for the job interview."
+        },
+        {
+          "term": "pants",
+          "definition": "Garment covering the body from waist to ankles, with separate parts for each leg.",
+          "example": "He prefers to wear comfortable pants."
+        },
+        {
+          "term": "shoes",
+          "definition": "Footwear worn to protect and comfort the feet.",
+          "example": "She bought new shoes for running."
+        },
+        {
+          "term": "accessory",
+          "definition": "Additional item worn with clothing to complement or enhance appearance.",
+          "example": "She wears a bracelet as a fashion accessory."
+        },
+        {
+          "term": "designer",
+          "definition": "Person who creates fashionable clothing.",
+          "example": "She admires the work of a famous fashion designer."
+        },
+        {
+          "term": "style",
+          "definition": "Distinctive manner in which something is presented or performed.",
+          "example": "Her style of dressing is elegant and classic."
+        },
+        {
+          "term": "fitting",
+          "definition": "Trying on clothes to check their size and how they look.",
+          "example": "She went for a fitting to alter her dress."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Emily loved fashion since she was a child. She often helped her mother choose outfits for special occasions. As she grew older, Emily started experimenting with different styles. She enjoyed shopping for new clothes and accessories, always staying updated with the latest fashion trends. Emily dreamed of becoming a fashion designer one day."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Dressed to kill",
+          "definition": "Wearing clothes intended to attract attention and admiration.",
+          "example": "She arrived at the party dressed to kill."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "High heels",
+          "definition": "Women's shoes with high heels, usually 3 inches or more.",
+          "example": "She wore high heels to the formal event."
+        }
+      ]
+    }
+  ]
+  

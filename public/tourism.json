@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "tourism",
+          "definition": "The activity of traveling to a place for pleasure.",
+          "example": "Tourism is an important industry in many countries."
+        },
+        {
+          "term": "destination",
+          "definition": "The place to which someone or something is going or being sent.",
+          "example": "Paris is a popular tourist destination."
+        },
+        {
+          "term": "sightseeing",
+          "definition": "The activity of visiting places of interest in a particular location.",
+          "example": "They spent the day sightseeing in Rome."
+        },
+        {
+          "term": "attraction",
+          "definition": "A place of interest that draws visitors, typically one of historical or cultural significance.",
+          "example": "The Eiffel Tower is a famous tourist attraction."
+        },
+        {
+          "term": "travel",
+          "definition": "The action of traveling.",
+          "example": "They love to travel and explore new cultures."
+        },
+        {
+          "term": "guide",
+          "definition": "A person who leads or directs others on a journey.",
+          "example": "The tour guide showed them around the city."
+        },
+        {
+          "term": "souvenir",
+          "definition": "A thing that is kept as a reminder of a person, place, or event.",
+          "example": "She bought a souvenir from her trip to Japan."
+        },
+        {
+          "term": "culture",
+          "definition": "The arts and other manifestations of human intellectual achievement regarded collectively.",
+          "example": "They experienced the local culture through food and music."
+        },
+        {
+          "term": "adventure",
+          "definition": "An unusual and exciting or daring experience.",
+          "example": "Their hiking trip was an unforgettable adventure."
+        },
+        {
+          "term": "tourist",
+          "definition": "A person who is traveling or visiting a place for pleasure.",
+          "example": "The city was crowded with tourists during the festival."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "John and Emily decided to take a break from their busy lives and go on a tourism adventure to South America. They explored ancient ruins, hiked through lush rainforests, and sampled local cuisine. Their favorite attraction was Machu Picchu, where they marveled at the breathtaking views and learned about its historical significance. It was a journey filled with new experiences and cultural discoveries."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Off the beaten path",
+          "definition": "To go to lesser-known or less-traveled places.",
+          "example": "They prefer to explore off the beaten path."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Sun and sand",
+          "definition": "A vacation or leisure time spent at the beach.",
+          "example": "They enjoyed their sun and sand vacation in Hawaii."
+        }
+      ]
+    }
+  ]
+  

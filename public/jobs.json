@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "job",
+          "definition": "Regular work done for payment.",
+          "example": "She has a full-time job at a marketing agency."
+        },
+        {
+          "term": "career",
+          "definition": "An occupation undertaken for a significant period of a person's life and with opportunities for progress.",
+          "example": "He is pursuing a career in software development."
+        },
+        {
+          "term": "employer",
+          "definition": "Person or organization that employs people.",
+          "example": "The company is a major employer in the region."
+        },
+        {
+          "term": "employee",
+          "definition": "Person hired to work for an employer.",
+          "example": "She is a dedicated employee who enjoys her work."
+        },
+        {
+          "term": "office",
+          "definition": "Place where administrative work is done.",
+          "example": "He works in a busy office in downtown."
+        },
+        {
+          "term": "meeting",
+          "definition": "Gathering of people for discussion or decision-making.",
+          "example": "They have a team meeting every Monday morning."
+        },
+        {
+          "term": "salary",
+          "definition": "Fixed regular payment made by an employer to an employee.",
+          "example": "She negotiated a higher salary for her new job."
+        },
+        {
+          "term": "promotion",
+          "definition": "Advancement to a higher rank or position.",
+          "example": "He received a promotion after years of hard work."
+        },
+        {
+          "term": "deadline",
+          "definition": "Final date by which something must be completed.",
+          "example": "They are working hard to meet the project deadline."
+        },
+        {
+          "term": "colleague",
+          "definition": "Person with whom one works, especially in a profession or business.",
+          "example": "She gets along well with her colleagues."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Sarah started her first job after finishing college. She was excited to begin her career in marketing. Her office was located in a busy city center. Every morning, she attended meetings with her team to discuss new projects. Sarah enjoyed the challenge of meeting deadlines and contributing to her company's success. With dedication and hard work, she quickly earned recognition from her colleagues and received a promotion."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "On the job",
+          "definition": "While working, especially in an official capacity.",
+          "example": "He learned new skills on the job."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Nine-to-five",
+          "definition": "Regular office hours.",
+          "example": "She works a nine-to-five job in the finance industry."
+        }
+      ]
+    }
+  ]
+  

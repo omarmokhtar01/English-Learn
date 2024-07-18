@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "sport",
+          "definition": "An activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment.",
+          "example": "Soccer is a popular sport worldwide."
+        },
+        {
+          "term": "fitness",
+          "definition": "The condition of being physically fit and healthy.",
+          "example": "She goes to the gym regularly to maintain her fitness."
+        },
+        {
+          "term": "exercise",
+          "definition": "Activity requiring physical effort, carried out to sustain or improve health and fitness.",
+          "example": "Running is a great form of exercise."
+        },
+        {
+          "term": "athlete",
+          "definition": "A person who is proficient in sports and other forms of physical exercise.",
+          "example": "He trained hard to become a professional athlete."
+        },
+        {
+          "term": "team",
+          "definition": "A group of players forming one side in a competitive game or sport.",
+          "example": "They are on the same soccer team."
+        },
+        {
+          "term": "tournament",
+          "definition": "A series of contests between a number of competitors, competing for an overall prize.",
+          "example": "The tennis tournament attracts players from around the world."
+        },
+        {
+          "term": "coach",
+          "definition": "A person who trains and instructs athletes or performers.",
+          "example": "The swim team's coach is very dedicated."
+        },
+        {
+          "term": "fitness center",
+          "definition": "A place where people go to exercise and improve their physical fitness.",
+          "example": "She signed up for a membership at the local fitness center."
+        },
+        {
+          "term": "healthy lifestyle",
+          "definition": "A way of living that lowers the risk of being seriously ill or dying early.",
+          "example": "Eating a balanced diet and exercising regularly contribute to a healthy lifestyle."
+        },
+        {
+          "term": "strength",
+          "definition": "The quality or state of being physically strong.",
+          "example": "Weightlifting helps build muscle strength."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Jake is passionate about sports and fitness. He starts his day with a morning run in the park to stay in shape. In the evenings, he plays basketball with his friends at the local gym. Jake also enjoys watching sports tournaments on TV, especially soccer and tennis. His dedication to fitness inspires those around him to lead healthier lifestyles."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "In the game",
+          "definition": "Involved or participating in a particular activity or situation.",
+          "example": "She's been in the game for years and knows all the tricks."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Fit and active",
+          "definition": "Healthy and physically active.",
+          "example": "He leads a fit and active lifestyle."
+        }
+      ]
+    }
+  ]
+  

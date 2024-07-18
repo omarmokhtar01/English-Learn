@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "childhood",
+          "definition": "The time of life when someone is a child.",
+          "example": "Her childhood was filled with adventures."
+        },
+        {
+          "term": "memory",
+          "definition": "The faculty by which the mind stores and remembers information.",
+          "example": "She has fond memories of her grandparents."
+        },
+        {
+          "term": "play",
+          "definition": "Engage in activity for enjoyment and recreation rather than a serious or practical purpose.",
+          "example": "They used to play hide-and-seek in the backyard."
+        },
+        {
+          "term": "toys",
+          "definition": "An object for children to play with, typically a model or miniature replica of something.",
+          "example": "Her favorite toys were dolls and stuffed animals."
+        },
+        {
+          "term": "imagination",
+          "definition": "The faculty or action of forming new ideas, images, or concepts not present to the senses.",
+          "example": "She had a vivid imagination as a child."
+        },
+        {
+          "term": "friends",
+          "definition": "A person whom one knows and with whom one has a bond of mutual affection, typically exclusive of sexual or family relations.",
+          "example": "She made lifelong friends in kindergarten."
+        },
+        {
+          "term": "school",
+          "definition": "An institution for educating children.",
+          "example": "She loved going to school and learning new things."
+        },
+        {
+          "term": "games",
+          "definition": "A form of play or sport, especially a competitive one played according to rules and decided by skill, strength, or luck.",
+          "example": "They played board games every weekend."
+        },
+        {
+          "term": "adventures",
+          "definition": "An unusual and exciting or daring experience.",
+          "example": "Their camping trips were full of adventures."
+        },
+        {
+          "term": "innocence",
+          "definition": "The state of being free from sin or moral wrong; lack of knowledge or understanding.",
+          "example": "She cherished the innocence of her childhood."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Sarah grew up in a small town where she spent her childhood playing in the park with her friends. They would build forts, climb trees, and have picnics on sunny days. Sarah's favorite memory was when they discovered a hidden treasure in the old oak tree. Those carefree days of innocence and imagination shaped her love for nature and adventure."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Like a kid in a candy store",
+          "definition": "To be extremely happy and excited.",
+          "example": "She was like a kid in a candy store when she saw all the toys."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Boys and girls",
+          "definition": "Children of both sexes.",
+          "example": "The playground was filled with boys and girls playing together."
+        }
+      ]
+    }
+  ]
+  

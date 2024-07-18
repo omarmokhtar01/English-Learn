@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "dream",
+          "definition": "Series of thoughts, images, and sensations occurring in a person's mind during sleep.",
+          "example": "She had a strange dream about flying."
+        },
+        {
+          "term": "nightmare",
+          "definition": "A frightening or unpleasant dream.",
+          "example": "He woke up screaming from a nightmare."
+        },
+        {
+          "term": "sleep",
+          "definition": "A condition of body and mind which typically recurs for several hours every night, in which the nervous system is inactive, the eyes closed, the postural muscles relaxed, and consciousness practically suspended.",
+          "example": "She needs at least eight hours of sleep."
+        },
+        {
+          "term": "interpretation",
+          "definition": "Explanation or meaning of something.",
+          "example": "They discussed the interpretation of her dream."
+        },
+        {
+          "term": "lucid dream",
+          "definition": "A dream during which the dreamer is aware that they are dreaming.",
+          "example": "He experienced a lucid dream and controlled his actions."
+        },
+        {
+          "term": "daydream",
+          "definition": "A series of pleasant thoughts that distract one's attention from the present.",
+          "example": "She often daydreams about traveling the world."
+        },
+        {
+          "term": "night owl",
+          "definition": "A person who is habitually active or wakeful at night.",
+          "example": "She's a night owl and prefers working late."
+        },
+        {
+          "term": "dreamcatcher",
+          "definition": "An object believed to filter out bad dreams and allow only good thoughts to enter the mind of its owner.",
+          "example": "She hung a dreamcatcher above her bed."
+        },
+        {
+          "term": "asleep",
+          "definition": "In a state of sleep.",
+          "example": "The baby is fast asleep."
+        },
+        {
+          "term": "awake",
+          "definition": "Not sleeping.",
+          "example": "He stayed awake all night studying."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Every night, Emily had vivid dreams about flying over mountains and exploring magical forests. She kept a dream journal by her bed to record these experiences. One night, she had a lucid dream and realized she was dreaming. Emily decided to explore her dream world and visited places she had always wanted to see. She woke up feeling refreshed and eager to share her dream adventures with her friends."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "In your dreams",
+          "definition": "Used to say that something someone wants is not going to happen.",
+          "example": "A: 'I want to be a famous singer.' B: 'In your dreams!'"
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Sweet dreams",
+          "definition": "Used to wish someone a good night and pleasant dreams.",
+          "example": "She kissed her children goodnight and whispered, 'Sweet dreams.'"
+        }
+      ]
+    }
+  ]
+  

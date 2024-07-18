@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "travel",
+          "definition": "Movement of people between distant geographical locations.",
+          "example": "They love to travel and explore new places."
+        },
+        {
+          "term": "plan",
+          "definition": "Detailed proposal for doing or achieving something.",
+          "example": "She made a plan for their vacation."
+        },
+        {
+          "term": "destination",
+          "definition": "Place to which someone or something is going or being sent.",
+          "example": "Their dream destination is Paris."
+        },
+        {
+          "term": "itinerary",
+          "definition": "Planned route or schedule of travel.",
+          "example": "They finalized their travel itinerary."
+        },
+        {
+          "term": "ticket",
+          "definition": "Piece of paper or small card that gives the holder a right to admission to something, especially as a means of identification or access.",
+          "example": "They booked their plane tickets early."
+        },
+        {
+          "term": "passport",
+          "definition": "Official document issued by a government, certifying the holder's identity and citizenship and entitling them to travel under its protection.",
+          "example": "She renewed her passport before the trip."
+        },
+        {
+          "term": "accommodation",
+          "definition": "A place where someone lives or stays, especially on vacation or for a specific purpose.",
+          "example": "They booked accommodation at a beach resort."
+        },
+        {
+          "term": "sightseeing",
+          "definition": "Activity of visiting places of interest in a particular location.",
+          "example": "They enjoyed sightseeing in Rome."
+        },
+        {
+          "term": "guidebook",
+          "definition": "Book of information for travelers, typically including details of hotels, restaurants, and places of interest.",
+          "example": "She bought a guidebook for their trip to Japan."
+        },
+        {
+          "term": "currency",
+          "definition": "System of money in general use in a particular country.",
+          "example": "They exchanged currency at the airport."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "John and Lisa planned their summer travel to Europe. They researched destinations and created an itinerary that included Paris, Rome, and Barcelona. They booked their plane tickets and accommodation in advance. Lisa checked her passport to ensure it was valid for travel. They packed their bags, including a guidebook for each city they planned to visit. John was excited about sightseeing and experiencing new cultures."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Hit the road",
+          "definition": "To leave and start a journey.",
+          "example": "They hit the road early in the morning to avoid traffic."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Travel light",
+          "definition": "To travel with little luggage or only essentials.",
+          "example": "She prefers to travel light when flying."
+        }
+      ]
+    }
+  ]
+  

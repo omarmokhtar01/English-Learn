@@ -34,6 +34,8 @@ function LevelDetailsPage() {
 
   return (
     <Container>
+       <div className="wrapper">
+       <div className="main-content">
       <h2 className="mt-5 mb-4">{level.level}</h2>
       <TransitionGroup className="sub-levels-list">
         {level.subLevels.map(subLevel => (
@@ -52,6 +54,7 @@ function LevelDetailsPage() {
           </CSSTransition>
         ))}
       </TransitionGroup>
+    </div></div>
     </Container>
   );
 }

@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "friendship",
+          "definition": "The state of being friends; friendly relations.",
+          "example": "Their friendship began in elementary school."
+        },
+        {
+          "term": "friend",
+          "definition": "A person whom one knows and with whom one has a bond of mutual affection, typically exclusive of sexual or family relations.",
+          "example": "She's my best friend."
+        },
+        {
+          "term": "trust",
+          "definition": "Firm belief in the reliability, truth, ability, or strength of someone or something.",
+          "example": "Trust is essential in a friendship."
+        },
+        {
+          "term": "loyalty",
+          "definition": "The quality of being loyal; faithfulness to commitments or obligations.",
+          "example": "He showed great loyalty to his friends."
+        },
+        {
+          "term": "support",
+          "definition": "To bear all or part of the weight of; hold up.",
+          "example": "She always supports her friends in difficult times."
+        },
+        {
+          "term": "bond",
+          "definition": "A close connection joining two or more people.",
+          "example": "Their shared experiences created a strong bond."
+        },
+        {
+          "term": "companionship",
+          "definition": "The feeling of friendship or fellowship.",
+          "example": "She enjoyed the companionship of her friends."
+        },
+        {
+          "term": "relationship",
+          "definition": "The way in which two or more concepts, objects, or people are connected, or the state of being connected.",
+          "example": "Their friendship grew into a close relationship."
+        },
+        {
+          "term": "forgiveness",
+          "definition": "The action or process of forgiving or being forgiven.",
+          "example": "Forgiveness is important in maintaining friendships."
+        },
+        {
+          "term": "understanding",
+          "definition": "The ability to understand something; comprehension.",
+          "example": "They had a deep understanding of each other."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Sarah and Anna met in high school and quickly became friends. They shared secrets, supported each other during tough times, and laughed together over inside jokes. Their friendship grew stronger over the years, built on trust, loyalty, and mutual respect. Sarah knew she could always rely on Anna for advice and companionship."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "BFF (Best Friends Forever)",
+          "definition": "A phrase used to refer to a very close friendship.",
+          "example": "They've been BFFs since kindergarten."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Thick and thin",
+          "definition": "Through good times and bad times.",
+          "example": "They stood by each other through thick and thin."
+        }
+      ]
+    }
+  ]
+  

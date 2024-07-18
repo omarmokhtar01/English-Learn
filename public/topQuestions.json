@@ -1,0 +1,252 @@
+[
+    {
+        "number": 1,
+        "question": "Tell me about yourself.",
+        "answer": "This question is often used as an icebreaker. Keep your answer concise, focusing on your professional background, key skills, and career goals."
+    },
+    {
+        "number": 2,
+        "question": "What are your strengths?",
+        "answer": "Highlight strengths relevant to the job you're applying for. Provide examples of how you've used these strengths in previous roles."
+    },
+    {
+        "number": 3,
+        "question": "What are your weaknesses?",
+        "answer": "Discuss a weakness that you've worked to improve. Frame it in a way that shows self-awareness and growth."
+    },
+    {
+        "number": 4,
+        "question": "Why do you want to work here?",
+        "answer": "Showcase your knowledge of the company and explain how your skills align with their goals. Mention specific aspects of the company that appeal to you."
+    },
+    {
+        "number": 5,
+        "question": "Why did you leave your last job?",
+        "answer": "Be honest and diplomatic. Focus on seeking new challenges, career growth, or better opportunities."
+    },
+    {
+        "number": 6,
+        "question": "What is your greatest accomplishment?",
+        "answer": "Choose an achievement that demonstrates skills relevant to the job. Describe the challenge, your actions, and the outcome."
+    },
+    {
+        "number": 7,
+        "question": "Describe a difficult work situation and how you overcame it.",
+        "answer": "Use the STAR method (Situation, Task, Action, Result) to structure your answer. Highlight your problem-solving skills and resilience."
+    },
+    {
+        "number": 8,
+        "question": "Where do you see yourself in 5 years?",
+        "answer": "Discuss your career goals and how you plan to achieve them. Show enthusiasm for the position and company."
+    },
+    {
+        "number": 9,
+        "question": "Why should we hire you?",
+        "answer": "Summarize your qualifications, experience, and skills that make you the best fit for the role. Highlight what you can contribute to the company."
+    },
+    {
+        "number": 10,
+        "question": "What are your salary expectations?",
+        "answer": "Research industry standards and be prepared with a range based on your skills and experience. Avoid discussing salary until later stages of the interview if possible."
+    },
+    {
+        "number": 11,
+        "question": "Can you explain gaps in your employment history?",
+        "answer": "Be honest and explain any gaps due to personal reasons or job searches. Highlight any relevant skills or experiences gained during the gap."
+    },
+    {
+        "number": 12,
+        "question": "How do you handle stress and pressure?",
+        "answer": "Discuss strategies you use to stay calm and focused under pressure. Provide examples of how you've successfully managed stressful situations."
+    },
+    {
+        "number": 13,
+        "question": "Describe a time when you demonstrated leadership skills.",
+        "answer": "Share a specific example where you took initiative, motivated others, and achieved a positive outcome. Highlight teamwork and decision-making abilities."
+    },
+    {
+        "number": 14,
+        "question": "What motivates you?",
+        "answer": "Discuss what drives you professionally and personally. Mention specific goals or achievements that inspire you to perform at your best."
+    },
+    {
+        "number": 15,
+        "question": "What makes you a good team player?",
+        "answer": "Highlight your ability to collaborate, communicate effectively, and contribute to team success. Give examples of past teamwork experiences."
+    },
+    {
+        "number": 16,
+        "question": "Do you prefer working independently or on a team?",
+        "answer": "Explain your preference based on your work style and past experiences. Emphasize your ability to work well in both settings."
+    },
+    {
+        "number": 17,
+        "question": "How do you handle constructive criticism?",
+        "answer": "Describe how you value feedback and use it to improve your performance. Give an example of a time when you received constructive criticism and how you applied it."
+    },
+    {
+        "number": 18,
+        "question": "Tell me about a time when you had to meet a tight deadline.",
+        "answer": "Discuss a specific instance where you managed time effectively, prioritized tasks, and delivered results under pressure."
+    },
+    {
+        "number": 19,
+        "question": "How do you prioritize your work?",
+        "answer": "Explain your approach to managing tasks, setting goals, and meeting deadlines. Highlight your organizational skills and ability to multitask."
+    },
+    {
+        "number": 20,
+        "question": "What are your long-term career goals?",
+        "answer": "Discuss your aspirations and how they align with the company's growth opportunities. Show your commitment to continuous learning and professional development."
+    },
+    {
+        "number": 21,
+        "question": "What are your hobbies and interests?",
+        "answer": "Share hobbies that demonstrate qualities relevant to the job, such as creativity, teamwork, or leadership. Avoid controversial or irrelevant hobbies."
+    },
+    {
+        "number": 22,
+        "question": "How do you stay updated with industry trends and developments?",
+        "answer": "Discuss resources you use to stay informed about industry news, trends, and advancements. Highlight any certifications, courses, or professional memberships."
+    },
+    {
+        "number": 23,
+        "question": "Describe a time when you had to resolve a conflict with a coworker.",
+        "answer": "Use the STAR method to describe the situation, your approach to resolving the conflict, and the positive outcome. Emphasize diplomacy and problem-solving skills."
+    },
+    {
+        "number": 24,
+        "question": "What do you know about our company?",
+        "answer": "Research the company's history, mission, products, services, and recent news. Demonstrate your interest and alignment with the company's values."
+    },
+    {
+        "number": 25,
+        "question": "How would your colleagues describe you?",
+        "answer": "Share positive traits that align with the job requirements, such as reliable, collaborative, or proactive. Provide examples to support these characteristics."
+    },
+    {
+        "number": 26,
+        "question": "Tell me about a time when you faced ethical issues at work.",
+        "answer": "Describe a situation where you encountered ethical dilemmas, how you approached them, and the decisions you made. Emphasize integrity and sound judgment."
+    },
+    {
+        "number": 27,
+        "question": "What is your preferred work style?",
+        "answer": "Discuss your work preferences, such as your approach to collaboration, communication, and task management. Highlight flexibility and adaptability."
+    },
+    {
+        "number": 28,
+        "question": "Describe a time when you failed and how you handled it.",
+        "answer": "Discuss a specific failure, what you learned from it, and how you used that experience to grow personally and professionally."
+    },
+    {
+        "number": 29,
+        "question": "What role do you usually play in a team?",
+        "answer": "Describe your strengths in teamwork, such as leadership, supporting others, or taking initiative. Provide examples that demonstrate your role in achieving team goals."
+    },
+    {
+        "number": 30,
+        "question": "How do you handle changes or challenges in the workplace?",
+        "answer": "Discuss your ability to adapt to new situations, learn from challenges, and find solutions. Share examples of times when you successfully navigated workplace changes."
+    },
+    {
+        "number": 31,
+        "question": "Describe a creative project you worked on.",
+        "answer": "Share details of a project where you used creativity to solve a problem or achieve a goal. Highlight your innovative thinking and the positive outcomes."
+    },
+    {
+        "number": 32,
+        "question": "How do you measure success?",
+        "answer": "Discuss your definition of success, whether it's achieving goals, making an impact, or continuous improvement. Provide examples that illustrate your success metrics."
+    },
+    {
+        "number": 33,
+        "question": "Tell me about a time when you took initiative.",
+        "answer": "Describe a situation where you identified a problem, took proactive steps to address it, and achieved a positive outcome. Highlight your initiative and leadership."
+    },
+    {
+        "number": 34,
+        "question": "What is your management style?",
+        "answer": "Discuss your approach to leading teams, communicating expectations, and motivating others. Provide examples that demonstrate your leadership style."
+    },
+    {
+        "number": 35,
+        "question": "How do you handle a difficult boss?",
+        "answer": "Discuss strategies you use to manage relationships with supervisors, such as open communication, seeking feedback, and finding common ground."
+    },
+    {
+        "number": 36,
+        "question": "Why do you want to leave your current job?",
+        "answer": "Focus on career growth, new challenges, or opportunities that align with your long-term goals. Avoid negative comments about your current employer."
+    },
+    {
+        "number": 37,
+        "question": "What do you consider your biggest failure?",
+        "answer": "Discuss a specific failure, what you learned from it, and how it contributed to your growth. Emphasize resilience and lessons learned."
+    },
+    {
+        "number": 38,
+        "question": "What are your favorite skills?",
+        "answer": "Discuss skills relevant to the job, such as problem-solving, communication, or technical expertise. Provide examples of how you've used these skills effectively."
+    },
+    {
+        "number": 39,
+        "question": "What interests you about this role?",
+        "answer": "Highlight aspects of the job that align with your skills, interests, and career goals. Show enthusiasm for the opportunity and how you can contribute."
+    },
+    {
+        "number": 40,
+        "question": "What is your approach to dealing with conflict?",
+        "answer": "Discuss strategies you use to address conflicts professionally, such as active listening, understanding different perspectives, and finding mutually beneficial solutions."
+    },
+    {
+        "number": 41,
+        "question": "How do you stay organized?",
+        "answer": "Describe tools, methods, or techniques you use to manage tasks, prioritize work, and meet deadlines. Highlight your ability to maintain efficiency and productivity."
+    },
+    {
+        "number": 42,
+        "question": "Tell me about a time when you had to learn something quickly.",
+        "answer": "Share a specific example where you acquired new skills or knowledge on short notice. Discuss how you adapted to the situation and applied what you learned."
+    },
+    {
+        "number": 43,
+        "question": "What do you do in your spare time?",
+        "answer": "Discuss hobbies and activities that showcase positive traits or skills relevant to the job, such as creativity, teamwork, or continuous learning."
+    },
+    {
+        "number": 44,
+        "question": "What are your short-term goals?",
+        "answer": "Discuss goals you hope to achieve within the next year or two, related to your career development and personal growth. Show how they align with the job you're applying for."
+    },
+    {
+        "number": 45,
+        "question": "How do you define teamwork?",
+        "answer": "Describe your understanding of teamwork, emphasizing collaboration, communication, and mutual support. Provide examples of successful teamwork experiences."
+    },
+    {
+        "number": 46,
+        "question": "How do you handle tight deadlines?",
+        "answer": "Discuss your approach to managing time, prioritizing tasks, and staying focused under pressure. Provide examples of how you've met deadlines effectively."
+    },
+    {
+        "number": 47,
+        "question": "What do you know about our industry?",
+        "answer": "Demonstrate your knowledge of the company's industry, including trends, challenges, and key players. Show your interest in the field and eagerness to contribute."
+    },
+    {
+        "number": 48,
+        "question": "What challenges are you looking for in this position?",
+        "answer": "Discuss opportunities for growth, learning, and applying your skills. Show how you're prepared to tackle challenges and make a positive impact."
+    },
+    {
+        "number": 49,
+        "question": "How do you handle ambiguity?",
+        "answer": "Discuss your ability to adapt to uncertainty, gather information, and make informed decisions. Provide examples of times when you navigated ambiguous situations successfully."
+    },
+    {
+        "number": 50,
+        "question": "Do you have any questions for us?",
+        "answer": "Prepare thoughtful questions about the company, team dynamics, or the role itself. Show your interest in the opportunity and desire to learn more."
+    }
+]

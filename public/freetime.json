@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "hobby",
+          "definition": "Activity done regularly in one's leisure time for pleasure.",
+          "example": "She enjoys painting as a hobby."
+        },
+        {
+          "term": "interest",
+          "definition": "Activity or subject that one enjoys or cares about.",
+          "example": "He has a keen interest in photography."
+        },
+        {
+          "term": "recreation",
+          "definition": "Activity done for enjoyment when one is not working.",
+          "example": "They went hiking as a form of recreation."
+        },
+        {
+          "term": "sport",
+          "definition": "Activity involving physical exertion and skill, often competitive.",
+          "example": "He plays soccer as a sport."
+        },
+        {
+          "term": "exercise",
+          "definition": "Activity requiring physical effort, carried out to sustain or improve health and fitness.",
+          "example": "She goes jogging every morning for exercise."
+        },
+        {
+          "term": "game",
+          "definition": "Activity engaged in for amusement or entertainment.",
+          "example": "They played board games together."
+        },
+        {
+          "term": "reading",
+          "definition": "Activity of looking at and understanding written words.",
+          "example": "She spends her free time reading novels."
+        },
+        {
+          "term": "music",
+          "definition": "Art form consisting of vocal or instrumental sounds combined in a harmonious way.",
+          "example": "He listens to classical music in his free time."
+        },
+        {
+          "term": "movie",
+          "definition": "Motion picture intended to entertain and inform.",
+          "example": "They watched a comedy movie last night."
+        },
+        {
+          "term": "travel",
+          "definition": "Journeying to different places for pleasure or discovery.",
+          "example": "They love to travel and explore new cultures."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Julia enjoys her free time pursuing various activities. On weekends, she practices yoga for relaxation and takes long walks in the park. She also likes to read mystery novels and listen to jazz music. Occasionally, Julia plays tennis with friends and watches classic movies. Her favorite hobby is gardening, where she grows flowers and vegetables in her backyard."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Kick back",
+          "definition": "To relax or take it easy.",
+          "example": "After a long week, they decided to kick back and watch movies."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Fun and games",
+          "definition": "Activities that are enjoyable and entertaining.",
+          "example": "The party was full of fun and games."
+        }
+      ]
+    }
+  ]
+  

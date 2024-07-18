@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "pet",
+          "definition": "An animal kept for companionship or pleasure rather than utility.",
+          "example": "Her dog is a loyal pet."
+        },
+        {
+          "term": "animal",
+          "definition": "A living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli.",
+          "example": "The zoo has a variety of animals from around the world."
+        },
+        {
+          "term": "dog",
+          "definition": "A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice.",
+          "example": "They adopted a rescue dog from the shelter."
+        },
+        {
+          "term": "cat",
+          "definition": "A small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws.",
+          "example": "Her cat likes to nap in sunny spots."
+        },
+        {
+          "term": "bird",
+          "definition": "A warm-blooded egg-laying vertebrate distinguished by the possession of feathers, wings, and a beak and (typically) by being able to fly.",
+          "example": "They have a parrot that can mimic human speech."
+        },
+        {
+          "term": "fish",
+          "definition": "A limbless cold-blooded vertebrate animal with gills and fins living wholly in water.",
+          "example": "They have a beautiful aquarium with tropical fish."
+        },
+        {
+          "term": "rabbit",
+          "definition": "A small burrowing soft-furred herbivorous mammal with long ears, long hind legs, and a short tail.",
+          "example": "Her rabbit loves to hop around the garden."
+        },
+        {
+          "term": "horse",
+          "definition": "A large plant-eating domesticated mammal with solid hoofs and a flowing mane and tail, used for riding, racing, and to carry and pull loads.",
+          "example": "They enjoy riding horses on weekends."
+        },
+        {
+          "term": "veterinarian",
+          "definition": "A person qualified to treat diseased or injured animals.",
+          "example": "They took their sick cat to the veterinarian."
+        },
+        {
+          "term": "wildlife",
+          "definition": "Wild animals collectively; the native fauna (and sometimes flora) of a region.",
+          "example": "They support wildlife conservation efforts."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Sarah has always loved animals. She adopted a rescue dog named Max and a playful kitten named Luna. They bring her joy with their playful antics and affectionate nature. Sarah enjoys taking Max for long walks in the park and watching Luna chase after toys around the house. She believes that having pets enriches her life and teaches her responsibility and compassion."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "In the doghouse",
+          "definition": "In trouble or disfavor, especially with one's spouse or partner.",
+          "example": "He forgot their anniversary and was in the doghouse for weeks."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Feathered and furry",
+          "definition": "Referring to animals with feathers (birds) and animals with fur (mammals).",
+          "example": "Their home is filled with feathered and furry companions."
+        }
+      ]
+    }
+  ]
+  

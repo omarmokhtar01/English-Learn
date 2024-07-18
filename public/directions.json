@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "directions",
+          "definition": "Instructions on how to get somewhere.",
+          "example": "He asked for directions to the nearest subway station."
+        },
+        {
+          "term": "location",
+          "definition": "A particular place or position.",
+          "example": "The hotel's location is convenient for tourists."
+        },
+        {
+          "term": "north",
+          "definition": "The direction in which a compass needle normally points, toward the horizon on the left-hand side of a person facing east.",
+          "example": "They traveled north for their vacation."
+        },
+        {
+          "term": "south",
+          "definition": "The direction opposite to that of the Earth's rotation on its axis, lying perpendicular to the meridian lines.",
+          "example": "The beach is south of their town."
+        },
+        {
+          "term": "east",
+          "definition": "The direction in which the sun rises, opposite to the west.",
+          "example": "The park is located to the east of the city center."
+        },
+        {
+          "term": "west",
+          "definition": "The direction in which the sun sets, opposite to the east.",
+          "example": "They moved west after retiring."
+        },
+        {
+          "term": "near",
+          "definition": "Close to someone or something in distance.",
+          "example": "There's a café near the museum."
+        },
+        {
+          "term": "far",
+          "definition": "At, to, or by a great distance.",
+          "example": "The airport is far from their home."
+        },
+        {
+          "term": "intersection",
+          "definition": "Point or line common to lines or surfaces that intersect.",
+          "example": "They turned left at the intersection."
+        },
+        {
+          "term": "landmark",
+          "definition": "Prominent or well-known object in a particular place that serves as a guide.",
+          "example": "The Eiffel Tower is a famous landmark in Paris."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "David needed to find his friend's new apartment in the city. He followed the directions given to him: go west on Elm Street, then turn north at the third intersection. The apartment building was near a famous landmark, the city library. David found the location easily and had a great visit with his friend."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Right around the corner",
+          "definition": "Very close or nearby.",
+          "example": "The grocery store is right around the corner."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Here and there",
+          "definition": "In various places.",
+          "example": "They traveled here and there during their vacation."
+        }
+      ]
+    }
+  ]
+  

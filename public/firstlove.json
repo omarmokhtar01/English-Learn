@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "first love",
+          "definition": "The first person one falls in love with; often remembered fondly for its innocence and intensity.",
+          "example": "She will always remember her first love."
+        },
+        {
+          "term": "infatuation",
+          "definition": "An intense but short-lived passion or admiration for someone or something.",
+          "example": "Her infatuation with him lasted through high school."
+        },
+        {
+          "term": "crush",
+          "definition": "A brief but intense infatuation for someone, especially someone unattainable.",
+          "example": "She had a crush on her classmate."
+        },
+        {
+          "term": "butterflies in the stomach",
+          "definition": "A feeling of nervousness or excitement, especially before meeting someone you like.",
+          "example": "She had butterflies in her stomach before their first date."
+        },
+        {
+          "term": "romance",
+          "definition": "A feeling of excitement and mystery associated with love.",
+          "example": "They shared a beautiful romance during summer camp."
+        },
+        {
+          "term": "heartbreak",
+          "definition": "Overwhelming distress caused by a breakup or unrequited love.",
+          "example": "She experienced heartbreak after he moved away."
+        },
+        {
+          "term": "flirt",
+          "definition": "To behave as though attracted to or trying to attract someone, but for amusement rather than with serious intentions.",
+          "example": "He liked to flirt with girls at parties."
+        },
+        {
+          "term": "date",
+          "definition": "A social or romantic appointment or engagement.",
+          "example": "They went on their first date to the movies."
+        },
+        {
+          "term": "relationship",
+          "definition": "The way in which two or more concepts, objects, or people are connected, or the state of being connected.",
+          "example": "Their relationship blossomed during high school."
+        },
+        {
+          "term": "puppy love",
+          "definition": "Infatuation or a crush typically experienced by young people.",
+          "example": "Their puppy love didn't last beyond middle school."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Mark met Emily during their freshman year of college. He was immediately smitten by her smile and wit. They spent late nights studying together, sharing secrets, and exploring the city. Mark realized he was experiencing his first love, and every moment with Emily felt like a fairytale. Despite their busy schedules, they made time for dates and romantic walks. Their relationship grew stronger until graduation day, when they promised to stay in touch despite being miles apart."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Love at first sight",
+          "definition": "Instant attraction or affection felt upon first seeing someone.",
+          "example": "She believed in love at first sight when she met him."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Head over heels",
+          "definition": "Completely in love or infatuated.",
+          "example": "She fell head over heels for him after their first date."
+        }
+      ]
+    }
+  ]
+  

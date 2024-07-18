@@ -26,7 +26,9 @@ function LevelsPage() {
   }
 
   return (
-    <Container className="mt-5">
+    <Container className="mt-5 mb-5">
+       <div className="wrapper">
+       <div className="main-content">
       <TransitionGroup className="levels-list">
         {levelsData.map(level => (
           <CSSTransition key={level.level} classNames="fade" timeout={500}>
@@ -52,6 +54,8 @@ function LevelsPage() {
           </CSSTransition>
         ))}
       </TransitionGroup>
+      </div>
+      </div>
     </Container>
   );
 }

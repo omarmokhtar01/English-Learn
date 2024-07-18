@@ -2,7 +2,9 @@
   {
     "level": "A1",
     "subLevels": [
-      { "title": "1", "description": "Beginner 1", "link":"beg-1" }
+      { "title": "1", "description": "Beginner 1", "link":"beg-1" },
+      { "title": "2", "description": "Beginner 2", "link":"beg-2" },
+      { "title": "3", "description": "Beginner 3" , "link":"beg-3" }
     ]
   }
 

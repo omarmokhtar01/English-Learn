@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "fruit",
+          "definition": "Sweet and edible product of a tree or plant containing seeds.",
+          "example": "I enjoy eating fresh fruits like apples and bananas."
+        },
+        {
+          "term": "vegetable",
+          "definition": "Plant or part of a plant used as food, typically savory.",
+          "example": "We cook a variety of vegetables such as carrots, broccoli, and peas."
+        },
+        {
+          "term": "beverage",
+          "definition": "Liquid consumed for refreshment.",
+          "example": "Water is a healthy beverage choice."
+        },
+        {
+          "term": "snack",
+          "definition": "Small amount of food eaten between meals.",
+          "example": "I like to have a snack of popcorn while watching movies."
+        },
+        {
+          "term": "spicy",
+          "definition": "Containing strong flavors from spices.",
+          "example": "This curry dish is very spicy!"
+        },
+        {
+          "term": "delicious",
+          "definition": "Very tasty and enjoyable to eat.",
+          "example": "The cake she baked was absolutely delicious."
+        },
+        {
+          "term": "crispy",
+          "definition": "Food that is firm and makes a crunching sound when bitten.",
+          "example": "I prefer my fries to be crispy."
+        },
+        {
+          "term": "thirsty",
+          "definition": "Feeling a need to drink.",
+          "example": "After playing outside, I felt thirsty and drank a glass of water."
+        },
+        {
+          "term": "hungry",
+          "definition": "Feeling a need to eat.",
+          "example": "After school, the children were very hungry."
+        },
+        {
+          "term": "nutritious",
+          "definition": "Food that provides necessary substances for growth and health.",
+          "example": "Salads are nutritious because they have lots of vitamins and minerals."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Sarah loved cooking. One day, she decided to make a special dinner. She chopped fresh vegetables and grilled chicken. She made a delicious salad with crispy lettuce and juicy tomatoes. For dessert, she baked a fruit pie using apples and cherries from her garden. Her friends came over, and they all enjoyed the meal together."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "A piece of cake",
+          "definition": "Something that is very easy to do.",
+          "example": "Don't worry, fixing this issue will be a piece of cake."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Fish and chips",
+          "definition": "A traditional British dish consisting of battered and fried fish served with deep-fried potatoes.",
+          "example": "I'm craving some fish and chips for dinner."
+        }
+      ]
+    }
+  ]
+  

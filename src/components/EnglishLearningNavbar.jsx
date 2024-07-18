@@ -13,6 +13,7 @@ function EnglishLearningNavbar() {
             {/* <Nav.Link href="home">Home</Nav.Link>
             <Nav.Link href="words">Popular Words</Nav.Link> */}
                         <Nav.Link as={Link} to="/">Levels</Nav.Link>
+                        <Nav.Link as={Link} to="/top-questions">Top Interview Questions</Nav.Link>
 
             {/* <Nav.Link href="resources">Resources</Nav.Link> */}
           </Nav>

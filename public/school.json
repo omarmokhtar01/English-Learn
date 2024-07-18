@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "school",
+          "definition": "Institution for educating children or young adults.",
+          "example": "He goes to a private school."
+        },
+        {
+          "term": "teacher",
+          "definition": "Person who teaches in a school.",
+          "example": "She is a science teacher."
+        },
+        {
+          "term": "student",
+          "definition": "Person who is studying at a school or college.",
+          "example": "There are many students in the classroom."
+        },
+        {
+          "term": "classroom",
+          "definition": "Room in which a class of students is taught.",
+          "example": "The students gathered in the classroom."
+        },
+        {
+          "term": "lesson",
+          "definition": "Period of teaching or learning, usually in a school or college.",
+          "example": "She prepared a lesson on history."
+        },
+        {
+          "term": "homework",
+          "definition": "Tasks assigned to students to be completed outside of class.",
+          "example": "He finished his homework before dinner."
+        },
+        {
+          "term": "book",
+          "definition": "Physical or digital publication used for reading or studying.",
+          "example": "She borrowed a book from the library."
+        },
+        {
+          "term": "exam",
+          "definition": "Formal test of a person's knowledge or proficiency in a subject.",
+          "example": "They have an exam next week."
+        },
+        {
+          "term": "graduation",
+          "definition": "Receiving an academic degree or diploma upon completion of studies.",
+          "example": "They celebrated their graduation with family."
+        },
+        {
+          "term": "principal",
+          "definition": "Head or director of a school.",
+          "example": "The principal welcomed parents to the school."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Michael loved going to school from a young age. He enjoyed learning new things and making friends in the classroom. His favorite subject was science, and he always listened carefully during lessons. Michael studied hard and did his homework on time. When he graduated from school, he felt proud of his achievements."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Bookworm",
+          "definition": "A person who enjoys reading books and spends much time doing so.",
+          "example": "She's such a bookworm; she reads a book every day."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Pen and paper",
+          "definition": "Traditional tools used for writing and drawing.",
+          "example": "He prefers to take notes with pen and paper."
+        }
+      ]
+    }
+  ]
+  

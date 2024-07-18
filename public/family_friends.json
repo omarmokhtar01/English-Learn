@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "family",
+          "definition": "Group consisting of parents and their children.",
+          "example": "She spends weekends with her family."
+        },
+        {
+          "term": "parent",
+          "definition": "Person who is a father or mother.",
+          "example": "His parents are supportive of his decisions."
+        },
+        {
+          "term": "sibling",
+          "definition": "Each of two or more children or offspring having one or both parents in common.",
+          "example": "She has a younger sibling."
+        },
+        {
+          "term": "relatives",
+          "definition": "Family members by blood or marriage.",
+          "example": "They visited their relatives during the holidays."
+        },
+        {
+          "term": "friend",
+          "definition": "Person with whom one has a bond of mutual affection, typically one exclusive of sexual or family relations.",
+          "example": "She has known her best friend since childhood."
+        },
+        {
+          "term": "relationship",
+          "definition": "Connection or association between people.",
+          "example": "They have a close relationship with their grandparents."
+        },
+        {
+          "term": "love",
+          "definition": "Intense feeling of deep affection.",
+          "example": "She has a lot of love for her family."
+        },
+        {
+          "term": "support",
+          "definition": "To give assistance, encouragement, or comfort to someone.",
+          "example": "Her friends supported her during difficult times."
+        },
+        {
+          "term": "bond",
+          "definition": "Strong connection or link between people.",
+          "example": "They share a strong bond as siblings."
+        },
+        {
+          "term": "trust",
+          "definition": "Firm belief in the reliability, truth, ability, or strength of someone.",
+          "example": "They have built trust in their friendship over the years."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Anna cherishes her time with family and friends. She has a close-knit family with whom she shares many traditions and celebrations. Anna's best friend, Sarah, has been by her side since they were in school together. They often spend weekends hiking or exploring new places. Anna values the support and love she receives from her family and friends."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Blood is thicker than water",
+          "definition": "Family relationships are stronger than non-family relationships.",
+          "example": "He prioritizes family because blood is thicker than water."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Companion and confidant",
+          "definition": "A person who provides companionship and with whom one shares personal thoughts and feelings.",
+          "example": "She considers her sister both a companion and confidant."
+        }
+      ]
+    }
+  ]
+  

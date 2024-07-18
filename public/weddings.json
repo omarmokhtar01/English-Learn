@@ -1,0 +1,86 @@
+[
+    {
+      "title": "Vocabulary",
+      "topics": [
+        {
+          "term": "wedding",
+          "definition": "A marriage ceremony, especially considered as including the associated celebrations.",
+          "example": "Their wedding was held in a beautiful church."
+        },
+        {
+          "term": "bride",
+          "definition": "A woman on her wedding day or just before and after the event.",
+          "example": "The bride looked stunning in her white gown."
+        },
+        {
+          "term": "groom",
+          "definition": "A man on his wedding day or just before and after the event.",
+          "example": "The groom wore a classic black suit."
+        },
+        {
+          "term": "ceremony",
+          "definition": "A formal religious or public occasion, typically one celebrating a particular event or anniversary.",
+          "example": "The wedding ceremony was emotional and heartfelt."
+        },
+        {
+          "term": "reception",
+          "definition": "The action or process of receiving something.",
+          "example": "They had a lively reception with music and dancing."
+        },
+        {
+          "term": "guest",
+          "definition": "A person who is invited to visit the home of or take part in a function organized by another.",
+          "example": "The guests arrived early for the wedding."
+        },
+        {
+          "term": "bridesmaid",
+          "definition": "A girl or woman, usually one of several, who accompanies a bride on her wedding day.",
+          "example": "Her best friend was her bridesmaid."
+        },
+        {
+          "term": "best man",
+          "definition": "The principal groomsman at a wedding.",
+          "example": "His brother was his best man."
+        },
+        {
+          "term": "honeymoon",
+          "definition": "A vacation spent together by a newly married couple.",
+          "example": "They went to the Caribbean for their honeymoon."
+        },
+        {
+          "term": "tradition",
+          "definition": "A long-established custom or belief that has been passed on from one generation to another.",
+          "example": "They followed traditional wedding customs."
+        }
+      ]
+    },
+    {
+      "title": "Story",
+      "topics": [
+        {
+          "text": "Sarah and James had dreamed of their wedding day since they were teenagers. They chose a romantic venue by the lake for their ceremony and exchanged heartfelt vows in front of their families and friends. The reception was a joyous occasion with delicious food, heartfelt speeches, and dancing late into the night. Sarah and James felt overwhelmed with love and happiness as they started their journey together as husband and wife."
+        }
+      ]
+    },
+    {
+      "title": "Idiom",
+      "topics": [
+        {
+          "term": "Tie the knot",
+          "definition": "To get married.",
+          "example": "They decided to tie the knot after years of dating."
+        }
+      ]
+    },
+    {
+      "title": "Binomial",
+      "topics": [
+        {
+          "term": "Bride and groom",
+          "definition": "The woman and man who are getting married.",
+          "example": "The bride and groom looked radiant on their wedding day."
+        }
+      ]
+    }
+  ]
+  
